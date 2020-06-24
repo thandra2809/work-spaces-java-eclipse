@@ -1,0 +1,11 @@
+XML Structure
+
+GetCourseDetailsRequest ---> GetCourseDetailsResponse
+
+ 1. Request XML
+ 2. Response XML
+ 3. Define the XSD structure
+
+ 
+ GetCourseDetailsRequest --> Input id=123
+ 
